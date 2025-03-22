@@ -19,5 +19,3 @@ This project contains data preprocessing steps for Named Entity Recognition (NER
 
 ## Team
 - Min – Dataset Preprocessing
-- Vladimir – CRF/HMM Modeling
-- Manikarnika – BERT Fine-tuning
